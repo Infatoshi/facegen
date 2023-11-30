@@ -1,0 +1,6 @@
+torch
+mediapipe
+opencv-python
+transformers
+datasets
+librosa
